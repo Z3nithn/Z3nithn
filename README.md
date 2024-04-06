@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Z3nithn</h1>
+<h1 align="center">Hi 👋, I'm Lalit Jangra A.K.A Z3nithn</h1>
 <h3 align="center">A Backend Developer & Cloud Security Engineer in Exploit OverLords Group </h3>
 <img src="https://github.com/Xer0Weeds/Contributors/blob/main/Creators%20%26%20Projects/Z3nith.jpg" alt="Z3nithn" width="600" style="vertical-align: bottom;">
 
