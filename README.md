@@ -17,24 +17,7 @@ I'm passionate about **blue teaming, threat detection, malware analysis, and scr
 
 ---
 
-## 🎓 Education
 
-- **Chandigarh University**  
-  *B.E. + M.E. in Computer Science & Engineering (Hons. in Information Security)*  
-  📅 *Aug 2022 – Present*  
-  📊 CGPA: **7.4 / 10.0**
-
-- **GSSS Govt. Sr. Sec. School, Harodi**  
-  *Senior Secondary (12th)*  
-  📅 *2021 – 2022*  
-  🏆 Grade: **87.2%**
-
-- **GSSS Govt. Sr. Sec. School, Harodi**  
-  *Matriculation (10th)*  
-  📅 *2019 – 2020*  
-  🏆 Grade: **84.4%**
-
----
 
 ## 💼 Experience
 
